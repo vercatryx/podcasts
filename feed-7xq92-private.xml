@@ -9,6 +9,12 @@
     <description>A private podcast for invited listeners.</description>
     <itunes:author>David Heimowitz</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://amimagazine.org/wp-content/uploads/2025/08/Rabbi-Berel-Wein.jpg"/>
+    <image>
+      <url>https://amimagazine.org/wp-content/uploads/2025/08/Rabbi-Berel-Wein.jpg</url>
+      <title>Private Podcast</title>
+      <link>https://vercatryx.github.io/podcasts/</link>
+    </image>
     <itunes:category text="Education"/>
 
     <item>
